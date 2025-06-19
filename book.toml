@@ -1,0 +1,5 @@
+[book]
+authors = ["Jakub Kwiatkowski <codeblessing>"]
+language = "pl"
+src = "src"
+title = "Short Prompt Engineering Guide"
