@@ -5,6 +5,7 @@
     - [Na poczatku było słowo...](./chapter_2_1.md) <!-- Napisz mi, czego pożądasz -->
     - [Ciemność widzę, ciemność!](./chapter_2_2.md) <!-- Bądź zrozumiały -->
     - [Słyszałeś co ci powiedziałem, czy nie słyszałeś co ci powiedziałem](./chapter_2_3.md) <!-- Iteracje -->
+    - [Odmień 'być'](./chapter_2_4.md) <!-- Role, zadania i inne metadane -->
 <!-- - [Myślę, więc jestem](./chapter_3.md) <!-- Modele wnioskujące (reasoning models) -->
 - [Incertitudo sola res certa est](./chapter_4.md) <!-- Niedeterministyczność modeli językowych -->
 - [Jaka piękna katastrofa...](./chapter_5.md) <!-- Najczęstsze błędy w użytkowaniu LLM -->
