@@ -3,3 +3,7 @@ authors = ["Jakub Kwiatkowski <codeblessing>"]
 language = "pl"
 src = "src"
 title = "Short Prompt Engineering Guide"
+
+[output.html]
+default-theme = "rust"
+preferred-dark-theme = "coal"
