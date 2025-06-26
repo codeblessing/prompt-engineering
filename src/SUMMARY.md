@@ -1,6 +1,6 @@
 # Spis treści
 
-[Przedsłowie](preface.md)
+[Przedsłowie](preface.md) <!-- TODO -->
 
 # Prompt
 
@@ -11,9 +11,8 @@
 # Prompt Engineering
 
 - [Zacznij od Bacha...](engineering/intro.md)
-    - [Na poczatku było słowo...](engineering/start.md)
-    - [Ciemność widzę, ciemność!](engineering/clear-intentions.md)
-    - [A może by tak rzucić to wszystko i zostać sysadminem?](engineering/roles-and-constraints.md)
-    <!-- - [Słyszałeś co ci powiedziałem, czy nie słyszałeś co ci powiedziałem](./chapter_2_3.md) <!-- Iteracje -->
-<!-- - [Myślę, więc jestem](./chapter_3.md) <!-- Modele wnioskujące (reasoning models) -->
-- [Jaka piękna katastrofa...](./chapter_5.md) <!-- Najczęstsze błędy w użytkowaniu LLM -->
+- [Na poczatku było słowo...](engineering/start.md)
+- [Ciemność widzę, ciemność!](engineering/clear-intentions.md)
+- [A może by tak rzucić to wszystko i zostać sysadminem?](engineering/roles-and-constraints.md)
+- [Trójkąty i kwadraty](engineering/structured-output.md)
+- [Odmień 'być']() <!-- TODO: Iteracje -->

@@ -172,6 +172,8 @@ Od razu przyznam - odrobinę pogrzebałem w wygenerowanym kodzie, żeby poprawi�
 
 Może zwróciliście też uwagę, że w dwóch ostatnich przykładach użyto znaczników markdown do rozdzielenia sekcji - tak też można. Ważne jest to, aby struktura i podział były jasne i możliwe do preztworzenia przez model.
 
+Czego jeszcze można oczekiwać od modelu? No, nie wiem, może... ustrukturyzowanego wyjścia?
+
 [^note]: Wynika to prawdopodobnie z tego, że Gemini uparcie próbuje wykorzystywać Canvas. Dodatkowe instrukcje wymuszające użycie angulara i rezygnujące z Canvas poskutkowały wygenerowaniem Angularowego kodu.
 [^1]: Zarówno ChatGPT jak i Gemini posiadają narzędzie zwane Canvas, w obu służy do podobnych celów i w obu czasem załączy się automatycznie a czasem nie.
 Jeśli chcemy mieć pewność, że Canvas zostanie użyty, to musimy zaznaczyć przycisk 'Canvas' w Gemini lub 'Tools->Write or code' w ChatGPT.
