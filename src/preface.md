@@ -17,4 +17,6 @@ Anyway - mam nadzieję, że ten krótki przewodnik okaże się pomocny i nie zan
 
 Enjoy!
 
+![Modern tools](https://imgs.xkcd.com/comics/modern_tools.png)
+
 [^1]: I mam tu na myśli wprowadzenie, czyli same podstawy - nie jak "Wprowadzenie do algorytmów" Thomasa Cormena.

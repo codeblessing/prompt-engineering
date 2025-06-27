@@ -1,6 +1,6 @@
 # Spis treści
 
-[Przedsłowie](preface.md) <!-- TODO -->
+[Przedsłowie](preface.md)
 
 # Prompt
 
@@ -15,4 +15,4 @@
 - [Ciemność widzę, ciemność!](engineering/clear-intentions.md)
 - [A może by tak rzucić to wszystko i zostać sysadminem?](engineering/roles-and-constraints.md)
 - [Trójkąty i kwadraty](engineering/structured-output.md)
-- [Odmień 'być']() <!-- TODO: Iteracje -->
+- [Odmień 'być'](engineering/iterations.md)
