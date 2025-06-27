@@ -177,5 +177,5 @@ Czego jeszcze można oczekiwać od modelu? No, nie wiem, może... ustrukturyzowa
 [^note]: Wynika to prawdopodobnie z tego, że Gemini uparcie próbuje wykorzystywać Canvas. Dodatkowe instrukcje wymuszające użycie angulara i rezygnujące z Canvas poskutkowały wygenerowaniem Angularowego kodu.
 [^1]: Zarówno ChatGPT jak i Gemini posiadają narzędzie zwane Canvas, w obu służy do podobnych celów i w obu czasem załączy się automatycznie a czasem nie.
 Jeśli chcemy mieć pewność, że Canvas zostanie użyty, to musimy zaznaczyć przycisk 'Canvas' w Gemini lub 'Tools->Write or code' w ChatGPT.
-![Canvas w Gemini](../../img/gemini-enable-canvas.png)
-![Canvas w ChatGPT](../../img/gpt-enable-canvas.png)
+![Canvas w Gemini](../img/gemini-enable-canvas.png)
+![Canvas w ChatGPT](../img/gpt-enable-canvas.png)

@@ -30,12 +30,12 @@ Lepszym wyborem będzie zapytanie o jakąś rzecz lub informację, na przykład
 Kim jest Scooby-Doo?
 ```
 
-![ChatGPT asked about Scooby-Doo](../../img/basic-prompt-gpt.png)
+![ChatGPT asked about Scooby-Doo](../img/basic-prompt-gpt.png)
 <span style="display: inline-block; width: 100%; text-align: center; font-style: italic">ChatGPT o Scooby-Doo</p>
 
 ---
 
-![Google Gemini asked about Scooby-Doo](../../img/basic-prompt-gemini.png)
+![Google Gemini asked about Scooby-Doo](../img/basic-prompt-gemini.png)
 <span style="display: inline-block; width: 100%; text-align: center; font-style: italic">Google Gemini o Scooby-Doo</span>
 
 Skoro już wiemy czym jest prompt nadszedł czas by dowiedzieć się czym jest prompt engineering, nieprawdaż?

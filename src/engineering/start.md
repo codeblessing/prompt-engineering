@@ -10,12 +10,12 @@ jest konkretne i dość jednoznaczne.
 Zapytajmy o coś innego, na przykład `Co to jest aurora borealis?`
 
 
-![ChatGPT asked about Aurora Borealis](../../img/basic-prompts-gpt.png)
+![ChatGPT asked about Aurora Borealis](../img/basic-prompts-gpt.png)
 <span style="display: inline-block; width: 100%; text-align: center; font-style: italic">ChatGPT o zorzy polarnej</p>
 
 ---
 
-![Google Gemini asked about Aurora Borealis](../../img/basic-prompts-gemini.png)
+![Google Gemini asked about Aurora Borealis](../img/basic-prompts-gemini.png)
 <span style="display: inline-block; width: 100%; text-align: center; font-style: italic">Google Gemini o zorzy polarnej</span>
 
 
@@ -24,12 +24,12 @@ Gorzej jednak będzie gdy zapytamy o coś niedoprecyzowanego.
 Na przykład poprosimy o napisanie aplikacji webowej.
 
 
-![ChatGPT asked to write web application](../../img/partial-prompt-gpt.png)
+![ChatGPT asked to write web application](../img/partial-prompt-gpt.png)
 <span style="display: inline-block; width: 100%; text-align: center; font-style: italic">ChatGPT zapytany o stworzenie aplikacji webowej</p>
 
 ---
 
-![Google Gemini asked to write web application](../../img/partial-prompt-gemini.png)
+![Google Gemini asked to write web application](../img/partial-prompt-gemini.png)
 <span style="display: inline-block; width: 100%; text-align: center; font-style: italic">Google Gemini zapytany o stworzenie aplikacji webowej</span>
 
 Jak widać, na niejednoznaczne zadanie model prosi o dostarczenie dodatkowych informacji, aby odpowiedź w ogóle dać jakieś rozwiązanie.

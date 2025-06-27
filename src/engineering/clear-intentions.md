@@ -26,7 +26,7 @@ Stwórz aplikację webową wyświetlającą fikcyjne cytaty znanych osób. Aplik
 
 Tym razem otrzymaliśmy bardzo podobne efekty, ale pojawił się inny problem — jesteśmy początkującymi web-devami i nie zawsze wiemy jak należy uruchomić wygenerowany kod, a instrukcje były niejasne...[^2] [^3]
 
-![Instrukcje były niejasne](../../img/instrukcje-niejasne.jpg)
+![Instrukcje były niejasne](../img/instrukcje-niejasne.jpg)
 
 Może udałoby się w jakiś sposób doprecyzować nasze oczekiwania? Zobaczmy!
 
